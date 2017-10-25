@@ -126,6 +126,9 @@ More documentation on [Guards](https://elixir-lang.org/docs/master/elixir/guards
 
 
 
+<<<<<<< HEAD
+Adding something here
+=======
 
 
 
@@ -135,3 +138,4 @@ More documentation on [Guards](https://elixir-lang.org/docs/master/elixir/guards
 
 
 Added this 
+>>>>>>> master
